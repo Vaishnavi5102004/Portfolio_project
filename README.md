@@ -1,1 +1,2 @@
 # Portfolio_project
+This is a personal portfolio web page designed and developed using HTML and CSS. The project showcases a clean, modern layout with responsive design principles, making it accessible across various devices. It features sections for an introduction, skills, projects, and contact details. The goal of this project was to demonstrate proficiency in front-end web development and create a visually appealing, user-friendly interface.
